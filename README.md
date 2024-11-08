@@ -13,7 +13,7 @@ Volumetric Capturing System using Robot: Subsystem for Immersive Scene Volumetri
   └─ (Robot Local) **ctrl_ugv.py** <br/>
 (Robot Local) **SISVVA_autoGS.sh** <br/>
   └─ (Remote Server) **colmap_auto_isyang.py** <br/>
-      └─ (Remote Server) **"COLMAP library"**  <br/>
+      └─ (Remote Server) **"COLMAP library"**  <br/>
   └─ (Remote Server) **"3DGS pipeline" convert.py** <br/>
   └─ (Remote Server) **"3DGS pipeline" train.py** <br/>
   └─ (Remote Server) **"3DGS pipeline" render.py** <br/>
