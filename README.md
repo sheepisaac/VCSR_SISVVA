@@ -8,7 +8,7 @@ realsense_save_image_ros.py:   Save image using ROS2-RealSense wrapper (please c
 ctrl_ugv.py:                   Control robot UGV motor (please check this link: https://github.com/sheepisaac/UGV_motor_control)
 colmap_auto_isyang.py:         Estimate camera parameter from acquired image data via COLMAP Linux library
 
-(Robot Local) SISVVA_autoACQ.sh
+(Robot Local) SISVVA_autoACQ.sh <\br>
   └─ (Robot Local) realsense_save_image_ros.py
   └─ (Robot Local) ctrl_ugv.py
 (Robot Local) SISVVA_autoGS.sh
