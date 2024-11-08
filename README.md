@@ -1,6 +1,6 @@
 # VCSR_SISVVA 
 Volumetric Capturing System using Robot: Subsystem for Immersive Scene Volumetric Video Acquisition <br/>
-<U> ** PLEASE! Check the shell script code and modify the directory pathes to customize for your local and remote server path! ** </U> <br/>
+<U>**PLEASE! Check the shell script code and modify the directory pathes to customize for your local and remote server path!**</U> <br/>
 
 SISVVA_autoACQ.sh:             Shell script for autonomously acquire the immersive scene multi-view image data set <br/>
 SISVVA_autoGS.sh:              Shell script for autonomously estimate camera parameter of acquired image data set by SISVVA_autoACQ.sh and train immersive scene via 3DGS <br/>
